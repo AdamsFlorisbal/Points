@@ -1,5 +1,5 @@
 {
-  "countdown": {
-    "component": "Countdown"
+  "credit-points": {
+    "component": "CreditPoints"
   }
 }
