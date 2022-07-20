@@ -23,13 +23,10 @@ class CreditPoints extends Component {
             {filmes.map(filme => (
               <li key={filme.show.id}>
                 <h2>
-                  <strong>Título: </strong>
+                  <strong>Pontos: </strong>
                   {filme.show.name}
                 </h2>
-                <p>
-                  {filme.show.url}
-                </p>
-    
+                   
               </li>
             ))}
           </div>
